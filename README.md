@@ -1,2 +1,2 @@
-# PingPong
-Game do PingPong desenvolvido em Python, referente ao laboratório 1 das aulas de Python para Análise de Dados do DataScienceAcademy.
+# Projetos em Python
+Projetinhos desenvolvidos em python, referentes aos laboratórios das aulas de Python para Análise de Dados do DataScienceAcademy.
